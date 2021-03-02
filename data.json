@@ -7,6 +7,14 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/example-asset/example-asset.png",
       "download": "https://github.com/OpenSpaceHub/misc/raw/master/example-asset/example-asset.zip"
+    },
+    {
+      "name": "Example Asset 2 ",
+      "description": "An example asset to populate the list of hub assets, showing a single planet with the Utah teapot mapped to it",
+      "author": { "name": "OpenSpace Team", "link": "http://example.org" },
+      "version": "0.16.0",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/example-asset/example-asset.png",
+      "download": "https://github.com/OpenSpaceHub/misc/raw/master/example-asset/example-asset.zip"
     }
   ],
   "profiles": [],
