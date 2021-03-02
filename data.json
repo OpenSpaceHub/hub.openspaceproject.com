@@ -7,6 +7,7 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/example-asset/example-asset.png",
       "download": "https://github.com/OpenSpaceHub/misc/raw/master/example-asset/example-asset.zip"
+    }
   ],
   "profiles": []
 }
