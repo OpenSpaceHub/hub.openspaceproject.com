@@ -17,7 +17,32 @@
       "download": "https://github.com/OpenSpaceHub/misc/raw/master/example-asset/example-asset.zip"
     }
   ],
-  "profiles": [],
-  "recordings": [],
-  "videos": []
+  "profiles": [
+    {
+      "name": "Empty profile",
+      "description": "An almost empty scene, that is very close to the minimal scene and still render something",
+      "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
+      "version": "0.16.0",
+      "image": "https://github.com/OpenSpaceHub/misc/raw/master/empty-profile/empty-profile.png",
+      "download": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/empty-profile/empty.profile"
+    }
+  ],
+  "recordings": [
+    {
+       "name": "Orbiting the Earth",
+        "description": "Just a single rotation around the Earth",
+        "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
+        "version": "0.16.0",
+        "image": "https://github.com/OpenSpaceHub/misc/raw/master/flight-around-earth/flight-around-earth.png",
+        "download": "https://github.com/OpenSpaceHub/misc/raw/master/flight-around-earth/flight-around-earth.osrec"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Insight landing sequence",
+      "description": "Shows the sequence of the landing of Insight",
+      "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
+      "link": "https://www.youtube.com/watch?v=vWA0LbCuzho"
+    }
+  ]
 }
