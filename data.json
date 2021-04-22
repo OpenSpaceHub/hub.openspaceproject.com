@@ -15,7 +15,7 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
       "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/spitzer.zip"
-    },
+    }
   ],
   "profiles": [
     {
