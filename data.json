@@ -18,12 +18,20 @@
     },
     {
       "name": "Kleopatra",
-      "description": "3D model and trail for Kkleopatra",
+      "description": "3D model and trail for Kleopatra",
       "author": "Morrison Planetarium/Dan Tell",
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/kleopatra/screenshot.png",
       "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip"
     },
+    {
+      "name": "Eros",
+      "description": "3D model and trail for Eros",
+      "author": "Bergen County Academies/AMNH",
+      "version": "0.16.0",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/eros/screenshot.png",
+      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip"
+    },    
     {
       "name": "Extragalactic",
       "description": "Extragalactic data sets for GAMA and Parkes-H1 Zone of Avoidance (HIZOA) surveys.",
