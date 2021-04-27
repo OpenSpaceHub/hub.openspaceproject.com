@@ -3,7 +3,7 @@
     {
       "name": "Spitzer",
       "description": "3D model and trail for Spitzer Space Telescope",
-      "author": "Morrison Planetarium/Dan Tell",
+      "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/spitzer/screenshot.png",
       "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip"
@@ -11,7 +11,7 @@
     {
       "name": "Hubble",
       "description": "3D model and trail for Hubble Space Telescope",
-      "author": "Morrison Planetarium/Dan Tell",
+      "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
       "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip"
@@ -19,7 +19,7 @@
     {
       "name": "Kleopatra",
       "description": "3D model and trail for Kleopatra",
-      "author": "Morrison Planetarium/Dan Tell",
+      "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/kleopatra/screenshot.png",
       "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip"
@@ -35,7 +35,7 @@
     {
       "name": "Extragalactic",
       "description": "Extragalactic data sets for GAMA and Parkes-H1 Zone of Avoidance (HIZOA) surveys.",
-      "author": "Morrison Planetarium/Dan Tell",
+      "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/extragalactic/screenshot.png",
       "download": "https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip"
