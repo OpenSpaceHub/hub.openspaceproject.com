@@ -6,7 +6,9 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/spitzer/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip"
+      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip",
+      "date_added": "2021-04-22",
+      "date_modified": "2021-04-22"
     },
     {
       "name": "Hubble",
@@ -14,7 +16,9 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip"
+      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip",
+      "date_added": "2021-04-22",
+      "date_modified": "2021-04-22"
     },
     {
       "name": "Kleopatra",
@@ -22,7 +26,9 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/kleopatra/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip"
+      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip",
+      "date_added": "2021-04-26",
+      "date_modified": "2021-04-26"
     },
     {
       "name": "Eros",
@@ -30,7 +36,9 @@
       "author": {"name": "Bergen County Academies/AMNH", "link": "https://bca-admissions.bergen.org/"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/eros/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip"
+      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip",
+      "date_added": "2021-04-26",
+      "date_modified": "2021-04-26"
     },    
     {
       "name": "Extragalactic",
@@ -38,7 +46,9 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/extragalactic/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip"
+      "download": "https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip",
+      "date_added": "2021-04-26",
+      "date_modified": "2021-04-26"
     },
     {
       "name": "Nodelines",
@@ -46,7 +56,9 @@
       "author": "Micah/Irene Pease",
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nodelines/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip"
+      "download": "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip",
+      "date_added": "2021-05-01",
+      "date_modified": "2021-05-28"
     }
   ],
   "profiles": [
@@ -56,17 +68,21 @@
       "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
       "version": "0.16.0",
       "image": "https://github.com/OpenSpaceHub/misc/raw/master/empty-profile/empty-profile.png",
-      "download": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/empty-profile/empty.profile"
+      "download": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/empty-profile/empty.profile",
+      "date_added": "2021-01-01",
+      "date_modified": "2021-01-01"
     }
   ],
   "recordings": [
     {
-       "name": "Orbiting the Earth",
-        "description": "Just a single rotation around the Earth",
-        "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
-        "version": "0.16.0",
-        "image": "https://github.com/OpenSpaceHub/misc/raw/master/flight-around-earth/flight-around-earth.png",
-        "download": "https://github.com/OpenSpaceHub/misc/raw/master/flight-around-earth/flight-around-earth.osrec"
+      "name": "Orbiting the Earth",
+      "description": "Just a single rotation around the Earth",
+      "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
+      "version": "0.16.0",
+      "image": "https://github.com/OpenSpaceHub/misc/raw/master/flight-around-earth/flight-around-earth.png",
+      "download": "https://github.com/OpenSpaceHub/misc/raw/master/flight-around-earth/flight-around-earth.osrec",
+      "date_added": "2021-01-01",
+      "date_modified": "2021-01-01"
     }
   ],
   "videos": [
@@ -74,7 +90,9 @@
       "name": "Insight landing sequence",
       "description": "Shows the sequence of the landing of Insight",
       "author": { "name": "OpenSpace Team", "link": "http://openspaceproject.com" },
-      "link": "https://www.youtube.com/watch?v=vWA0LbCuzho"
+      "link": "https://www.youtube.com/watch?v=vWA0LbCuzho",
+      "date_added": "2021-01-01",
+      "date_modified": "2021-01-01"
     }
   ]
 }
