@@ -55,8 +55,8 @@
       "description": "Trails for the ten closest approach NEOs of 2021 from JPL Horizions (as of 05/28)",
       "author": "Zach Shaffer",
       "version": "0.16.1",
-      "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nodelines/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/closeapproach2021/screenshot.png",
+      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/closeapproach2021/closeapproach2021.zip",
       "date_added": "2021-05-28",
       "date_modified": "2021-05-28"
     },
