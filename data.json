@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "name": "Historical ISS Trail",
+      "description": "This asset contains a historical trail of the ISS with data ranging from 1998 NOV 19 to 2005 JAN 01. For performance reasons the asset file only shows the last two months of trail. This can be edited to show the desired timeframe. Historical data is from Celestrak archives. https://celestrak.com/NORAD/archives/",
+      "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
+      "version": "0.17.0",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/historicaliss/screenshot.png",
+      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss.zip",
+      "date_added": "2021-06-21",
+      "date_modified": "2021-06-21"
+    },
+    {
       "name": "Spitzer",
       "description": "3D model and trail for Spitzer Space Telescope",
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
