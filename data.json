@@ -11,6 +11,16 @@
       "date_modified": "2021-06-21"
     },
     {
+      "name": "NYC 3D Model",
+      "description": "This asset contains 3d obj files for the building in NYC (Manhattan). The data was originally acquired from: NYC DOITT https://www1.nyc.gov/site/doitt/initiatives/3d-building.page. More information available at author url.",
+      "author": {"name": "James Hedberg/CCNY Planetarium", "link":"http://www.jameshedberg.com/creations/2020/07/28/nyc-buildings-3dmodel.html"},
+      "version": "0.17.0",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nyc3dmodel/screenshot.png",
+      "download": "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel.zip",
+      "date_added": "2021-06-21",
+      "date_modified": "2021-06-21"
+    },
+    {
       "name": "Spitzer",
       "description": "3D model and trail for Spitzer Space Telescope",
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
@@ -49,7 +59,7 @@
       "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip",
       "date_added": "2021-04-26",
       "date_modified": "2021-04-26"
-    },    
+    },
     {
       "name": "Extragalactic",
       "description": "Extragalactic data sets for GAMA and Parkes-H1 Zone of Avoidance (HIZOA) surveys.",
