@@ -36,7 +36,7 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
-      "download": {"0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip", "latest": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0170.zip"},
+      "download": {"0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip", "0.17.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0170.zip"},
       "date_added": "2021-04-22",
       "date_modified": "2021-04-22"
     },
