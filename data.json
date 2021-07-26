@@ -2,7 +2,7 @@
   "assets": [
     {
       "name": "Space Weather Bastille Day",
-      "description": "This asset contains a volume rendering and fieldline rendering of the Bastille Day space weather event.",
+      "description": "This asset contains a volume rendering and fieldline rendering of the Bastille Day space weather event. The data in this asset is time-coded to July 2000, if you want to see it, the 'MAS Fiedlines' scene graph node has a button called 'Jump to Start of Sequence' that will set the time in OpenSpace to where data is available",
       "author": {"name": "OpenSpace/Alex", "link":"http://openspaceproject.com"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/bastille_day/screenshot.png",
