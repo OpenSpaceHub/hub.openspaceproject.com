@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "name": "650pc GalaxyMap",
+      "description": "3D map of dust and star density within a 650pc region. The models are rednered without depth culling so that interior regions can be viewed. To change this uncheck 'Disable Depth Test' in each models Renderable menu. These meshes come from Kevin Jardine's Galaxy Map (https://twitter.com/galaxy_map) with original data sources here: https://gruze.org/sn/sources.pdf <br> A rendering can be seen here: https://gruze.org/galaxymap/quartet/wallpapers/wallpaper_0650pc.png",
+      "author": {"name": "Deion Desier/Jackie Faherty via Kevin Jardine", "link":"https://twitter.com/galaxy_map"},
+      "version": "0.17.0",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/screenshot.png",
+      "download": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/galaxymap650pc.zip",
+      "date_added": "2021-08-04",
+      "date_modified": "2021-08-04"
+    },
+    {
       "name": "Neil Armstrong Spacesuit 3D model",
       "description": "This 3D model of Neil Armstrong's spacesuit comes from the Smithsonian's 3D Digitization library. This asset contains the model placed at Little West crater near the Apollo 11 landing site, specifically fitted for use with the 'LRO NAC Apollo 11' height layer for the moon. This height layer is only available if OpenSpace is launched with the 'apollo' scene, or it can be downloaded from the 'Additional Datasets' section of the install page on openspaceproject.com",
       "author": {"name": "OpenSpace/Micah", "link":"https://3d.si.edu/object/3d/neil-armstrong-spacesuit:d8c63ba6-4ebc-11ea-b77f-2e728ce88125"},
