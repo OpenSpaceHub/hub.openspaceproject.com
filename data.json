@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "name": "Powers of Ten",
+      "description": "A series of concentric rings to demonstrate the powers of ten. This asset is centered on AMNH in NYC, to change the location open the powersoften.asset file and edit the Latitude and Longitude",
+      "author": {"name": "OpenSpace/Micah", "link":"https://www.openspaceproject.com"},
+      "version": "0.17.1",
+      "image": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/screenshot.png",
+      "download": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip",
+      "date_added": "2021-08-24",
+      "date_modified": "2021-08-24"
+    },
+    {
       "name": "650pc GalaxyMap",
       "description": "3D map of dust and star density within a 650pc region. The models are rednered without depth culling so that interior regions can be viewed. To change this uncheck 'Disable Depth Test' in each models Renderable menu. These meshes come from Kevin Jardine's Galaxy Map (https://twitter.com/galaxy_map) with original data sources here: https://gruze.org/sn/sources.pdf A rendering can be seen here: https://gruze.org/galaxymap/quartet/wallpapers/wallpaper_0650pc.png",
       "author": {"name": "Deion Desier/Jackie Faherty via Kevin Jardine", "link":"https://twitter.com/galaxy_map"},
