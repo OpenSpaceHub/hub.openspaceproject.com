@@ -4,11 +4,11 @@
       "name": "Powers of Ten",
       "description": "A series of concentric rings to demonstrate the powers of ten. This asset is centered on AMNH in NYC, to change the location open the powersoften.asset file and edit the Latitude and Longitude",
       "author": {"name": "OpenSpace/Micah", "link":"https://www.openspaceproject.com"},
-      "version": "0.17.1",
+      "version": "0.18.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/screenshot.png",
-      "download": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip",
+      "download": {"0.17.1":"https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften_0_17_1.zip", "0.18.0": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip"},
       "date_added": "2021-08-24",
-      "date_modified": "2021-08-24"
+      "date_modified": "2022-06-13"
     },
     {
       "name": "650pc GalaxyMap",
