@@ -1,0 +1,13 @@
+[
+    {
+        "name": "ISS loading error",
+        "description": "Fixes data for the ISS not loading, and thus the ISS trail and model do not show up",
+        "uuid": "d8427551-81f0-4cfc-bbd9-feae274c1d45",
+        "patch": {
+            "type": "file_replace",
+            "fileUrl": "https://raw.githubusercontent.com/OpenSpace/OpenSpace/4712726ed6c5bd5a286a7a128adf3c7a5fef005f/data/assets/scene/solarsystem/planets/earth/satellites/misc/iss.asset",
+            "filePath": "${ASSETS}/scene/solarsystem/planets/earth/satellites/misc/iss.asset"
+        },
+        "versions": ["0.18.0"]
+    }
+]
