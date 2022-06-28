@@ -16,9 +16,12 @@
       "author": {"name": "Deion Desir/Jackie Faherty via Kevin Jardine", "link":"https://twitter.com/galaxy_map"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/screenshot.png",
-      "download": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/galaxymap650pc.zip",
+      "download": {
+        "0.18.0": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/galaxymap650pc.zip",
+        "0.17.0": "https://github.com/OpenSpaceHub/milkyway/raw/master/galaxymap650pc/galaxymap650pc_0_17_0.zip"
+      },
       "date_added": "2021-08-04",
-      "date_modified": "2021-08-04"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Neil Armstrong Spacesuit 3D model",
@@ -26,9 +29,12 @@
       "author": {"name": "OpenSpace/Micah", "link":"https://3d.si.edu/object/3d/neil-armstrong-spacesuit:d8c63ba6-4ebc-11ea-b77f-2e728ce88125"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/screenshot.png",
-      "download": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong.zip",
+      "download": {
+        "0.17.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong_0_17_0.zip",
+        "0.18.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong.zip"
+      },
       "date_added": "2021-08-04",
-      "date_modified": "2021-08-04"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Space Weather Bastille Day",
@@ -46,9 +52,12 @@
       "author": {"name": "OpenSpace/Micah via adrian price-whelan", "link":"http://adrian.pw/visualizations/mwstreams/"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/mwstreams/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/mwstreams/mwstreams.zip",
+      "download": {
+        "0.17.0":"https://github.com/OpenSpaceHub/misc/raw/master/mwstreams/mwstreams.zip",
+        "0.18.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip"
+      },
       "date_added": "2021-07-19",
-      "date_modified": "2021-07-19"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Historical ISS Trail",
@@ -116,9 +125,12 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/extragalactic/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip",
+      "download": {
+        "0.16.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic_0_16_0.zip",
+        "0.18.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip"
+      },
       "date_added": "2021-04-26",
-      "date_modified": "2021-04-26"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Close Approaches 2021",
