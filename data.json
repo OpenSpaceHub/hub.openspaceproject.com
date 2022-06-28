@@ -68,9 +68,12 @@
       "author": {"name": "OpenSpace/Micah", "link":"https://celestrak.com/NORAD/archives/"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/historicaliss/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss.zip",
+        "0.17.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss_0_17_0.zip"
+      },
       "date_added": "2021-06-21",
-      "date_modified": "2021-06-21"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "NYC 3D Model",
@@ -91,9 +94,12 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/spitzer/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip",
+        "0.16.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer_0_16_0.zip"
+      },
       "date_added": "2021-04-22",
-      "date_modified": "2021-04-22"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Hubble",
@@ -102,11 +108,12 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
       "download": {
+        "0.18.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip",
         "0.17.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0170.zip",
-        "0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip"
+        "0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0_16_1.zip"
       },
       "date_added": "2021-04-22",
-      "date_modified": "2021-04-22"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Kleopatra",
