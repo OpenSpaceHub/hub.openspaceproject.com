@@ -6,7 +6,10 @@
       "author": {"name": "OpenSpace/Micah", "link":"https://www.openspaceproject.com"},
       "version": "0.17.1",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/screenshot.png",
-      "download": {"0.17.1":"https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften_0_17_1.zip", "0.18.0": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip"},
+      "download": {
+        "0.18.0": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip",
+        "0.17.1":"https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften_0_17_1.zip"
+      },
       "date_added": "2021-08-24",
       "date_modified": "2022-06-13"
     },
@@ -30,8 +33,8 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/screenshot.png",
       "download": {
-        "0.17.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong_0_17_0.zip",
-        "0.18.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong.zip"
+        "0.18.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong.zip",
+        "0.17.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong_0_17_0.zip"
       },
       "date_added": "2021-08-04",
       "date_modified": "2022-06-28"
@@ -53,8 +56,8 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/mwstreams/screenshot.png",
       "download": {
-        "0.17.0":"https://github.com/OpenSpaceHub/misc/raw/master/mwstreams/mwstreams.zip",
-        "0.18.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip"
+        "0.18.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip",
+        "0.17.0":"https://github.com/OpenSpaceHub/misc/raw/master/mwstreams/mwstreams.zip"
       },
       "date_added": "2021-07-19",
       "date_modified": "2022-06-28"
@@ -75,9 +78,12 @@
       "author": {"name": "James Hedberg/CCNY Planetarium", "link":"http://www.jameshedberg.com/creations/2020/07/28/nyc-buildings-3dmodel.html"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nyc3dmodel/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel.zip",
+        "0.17.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel_0_17_0.zip"
+      },
       "date_added": "2021-06-21",
-      "date_modified": "2021-06-21"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Spitzer",
@@ -95,7 +101,10 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
-      "download": {"0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip", "0.17.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0170.zip"},
+      "download": {
+        "0.17.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0170.zip",
+        "0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip"
+      },
       "date_added": "2021-04-22",
       "date_modified": "2021-04-22"
     },
@@ -126,8 +135,8 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/extragalactic/screenshot.png",
       "download": {
-        "0.16.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic_0_16_0.zip",
-        "0.18.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip"
+        "0.18.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip",
+        "0.16.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic_0_16_0.zip"
       },
       "date_added": "2021-04-26",
       "date_modified": "2022-06-28"
@@ -148,9 +157,12 @@
       "author": { "name": "Irene Pease/Micah", "link": "http://friendlyneighborhoodastronomer.com/"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nodelines/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip",
+        "0.16.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines_0_16_0.zip"
+      },
       "date_added": "2021-05-01",
-      "date_modified": "2021-05-28"
+      "date_modified": "2022-06-28"
     }
   ],
   "profiles": [
