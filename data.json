@@ -114,9 +114,12 @@
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/kleopatra/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip",
+        "0.16.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra_0_16_0.zip"
+      },
       "date_added": "2021-04-26",
-      "date_modified": "2021-04-26"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Eros",
@@ -124,9 +127,12 @@
       "author": {"name": "Bergen County Academies/AMNH", "link": "https://bca-admissions.bergen.org/"},
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/eros/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip",
+        "0.16.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros_0_16_0.zip"
+      },
       "date_added": "2021-04-26",
-      "date_modified": "2021-04-26"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Extragalactic",
@@ -147,9 +153,12 @@
       "author": "Zach Shaffer",
       "version": "0.16.1",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/closeapproach2021/screenshot.png",
-      "download": "https://github.com/OpenSpaceHub/solarsystem/raw/master/closeapproach2021/closeapproach2021.zip",
+      "download": {
+        "0.18.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/closeapproach2021/closeapproach2021.zip",
+        "0.16.1" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/closeapproach2021/closeapproach2021_0_16_1.zip"
+      },
       "date_added": "2021-05-28",
-      "date_modified": "2021-05-28"
+      "date_modified": "2022-06-28"
     },
     {
       "name": "Nodelines",
