@@ -9,5 +9,16 @@
             "filePath": "${ASSETS}/scene/solarsystem/planets/earth/satellites/misc/iss.asset"
         },
         "versions": ["0.18.0"]
+    },
+    {
+        "name": "ESRI World Imagery Fix",
+        "description": "Fixes the main earth layer not loading. Needed as of 11/18/2022",
+        "uuid": "56a90578-6786-11ed-9022-0242ac120002",
+        "patch": {
+            "type": "file_replace",
+            "fileUrl": "https://raw.githubusercontent.com/OpenSpace/OpenSpace/master/data/assets/scene/solarsystem/planets/earth/layers/colorlayers/esri_world_imagery.wms",
+            "filePath": "${ASSETS}/solarsystem/planets/earth/layers/colorlayers/esri_world_imagery.wms"
+        },
+        "versions": ["0.18.0"]
     }
 ]
