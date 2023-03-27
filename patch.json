@@ -20,5 +20,16 @@
             "filePath": "${ASSETS}/scene/solarsystem/planets/earth/layers/colorlayers/esri_world_imagery.wms"
         },
         "versions": ["0.18.0"]
+    },
+    {
+        "name": "Add Gibs Layer Fix",
+        "description": "Fixes an issue with adding NASA GIBS layher from scripting or the Native UI",
+        "uuid": "6178b42d-ddcd-4c6d-a6cc-8e0367be0294",
+        "patch": {
+            "type": "file_replace",
+            "fileUrl": "https://raw.githubusercontent.com/OpenSpace/OpenSpace/8eec0e84b9d3830d1fca62f7e275c5efd46e8f39/modules/globebrowsing/scripts/layer_support.lua",
+            "filePath": "${MODULES}/globebrowsing/scripts/layer_support.lua"
+        },
+        "versions": ["0.18.0"]
     }
 ]
