@@ -30,6 +30,6 @@
             "fileUrl": "https://raw.githubusercontent.com/OpenSpace/OpenSpace/8eec0e84b9d3830d1fca62f7e275c5efd46e8f39/modules/globebrowsing/scripts/layer_support.lua",
             "filePath": "${MODULES}/globebrowsing/scripts/layer_support.lua"
         },
-        "versions": ["0.18.0"]
+        "versions": ["0.18.0", "0.18.1", "0.18.2"]
     }
 ]
