@@ -31,5 +31,16 @@
             "filePath": "${MODULES}/globebrowsing/scripts/layer_support.lua"
         },
         "versions": ["0.18.0", "0.18.1", "0.18.2"]
+    },
+    {
+        "name": "Fix Europa Layers",
+        "description": "Fixes an issue where Europa would only load 1/2 the globe",
+        "uuid": "817a293b-8320-4cd9-8020-1b50ed22d136",
+        "patch": {
+            "type": "file_replace",
+            "fileUrl": "https://raw.githubusercontent.com/OpenSpace/OpenSpace/c56ca4d71cb44133169556593839fe26187bc69e/data/assets/scene/solarsystem/planets/jupiter/europa/default_layers.asset",
+            "filePath": "${ASSETS}/scene/solarsystem/planets/jupiter/europa/default_layers.asset"
+        },
+        "versions": ["0.19.0", "0.19.1"]
     }
 ]
