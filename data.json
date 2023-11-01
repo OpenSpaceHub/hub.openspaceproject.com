@@ -59,8 +59,8 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/mwstreams/screenshot.png",
       "download": {
-        "0.19.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip",
-        "0.18.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip",
+        "0.19.0":"https://github.com/OpenSpaceHub/milkyway/raw/master/mwstreams/mwstreams.zip",
+        "0.18.0":"https://github.com/OpenSpaceHub/milkyway/raw/master/mwstreams/mwstreams.zip",
         "0.17.0":"https://github.com/OpenSpaceHub/misc/raw/master/mwstreams/mwstreams.zip"
       },
       "date_added": "2021-07-19",
