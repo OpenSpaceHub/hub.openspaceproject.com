@@ -7,6 +7,7 @@
       "version": "0.17.1",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/screenshot.png",
       "download": {
+        "0.19.0": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip",
         "0.18.0": "https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften.zip",
         "0.17.1":"https://raw.githubusercontent.com/OpenSpaceHub/educational/master/powersoften/powersoften_0_17_1.zip"
       },
@@ -20,6 +21,7 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/screenshot.png",
       "download": {
+        "0.19.0": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/galaxymap650pc.zip",
         "0.18.0": "https://raw.githubusercontent.com/OpenSpaceHub/milkyway/master/galaxymap650pc/galaxymap650pc.zip",
         "0.17.0": "https://github.com/OpenSpaceHub/milkyway/raw/master/galaxymap650pc/galaxymap650pc_0_17_0.zip"
       },
@@ -33,6 +35,7 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/screenshot.png",
       "download": {
+        "0.19.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong.zip",
         "0.18.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong.zip",
         "0.17.0":"https://raw.githubusercontent.com/OpenSpaceHub/misc/master/armstrong/armstrong_0_17_0.zip"
       },
@@ -41,7 +44,7 @@
     },
     {
       "name": "Space Weather Bastille Day",
-      "description": "This asset contains a volume rendering and fieldline rendering of the Bastille Day space weather event. The data in this asset is time-coded to July 2000, if you want to see it, the 'MAS Fiedlines' scene graph node has a button called 'Jump to Start of Sequence' that will set the time in OpenSpace to where data is available",
+      "description": "(Already included in v18+) This asset contains a volume rendering and fieldline rendering of the Bastille Day space weather event. The data in this asset is time-coded to July 2000, if you want to see it, the 'MAS Fiedlines' scene graph node has a button called 'Jump to Start of Sequence' that will set the time in OpenSpace to where data is available",
       "author": {"name": "OpenSpace/Alex", "link":"http://openspaceproject.com"},
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/bastille_day/screenshot.png",
@@ -56,6 +59,7 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/mwstreams/screenshot.png",
       "download": {
+        "0.19.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip",
         "0.18.0":"https://github.com/OpenSpaceHub/milkway/raw/master/mwstreams/mwstreams.zip",
         "0.17.0":"https://github.com/OpenSpaceHub/misc/raw/master/mwstreams/mwstreams.zip"
       },
@@ -69,6 +73,7 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/historicaliss/screenshot.png",
       "download": {
+        "0.19.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss.zip",
         "0.18.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss.zip",
         "0.17.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/historicaliss/historicaliss_0_17_0.zip"
       },
@@ -82,6 +87,7 @@
       "version": "0.17.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nyc3dmodel/screenshot.png",
       "download": {
+        "0.19.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel.zip",
         "0.18.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel.zip",
         "0.17.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nyc3dmodel/nyc3dmodel_0_17_0.zip"
       },
@@ -92,11 +98,11 @@
       "name": "Spitzer",
       "description": "3D model and trail for Spitzer Space Telescope",
       "author": {"name": "Morrison Planetarium/Dan Tell", "link":"https://www.calacademy.org/exhibits/morrison-planetarium"},
-      "version": "0.16.0",
+      "version": "0.18.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/spitzer/screenshot.png",
       "download": {
-        "0.18.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip",
-        "0.16.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer_0_16_0.zip"
+        "0.19.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer.zip",
+        "0.18.0" : "https://github.com/OpenSpaceHub/spacecraft/raw/master/spitzer/spitzer_0_18_0.zip"
       },
       "date_added": "2021-04-22",
       "date_modified": "2022-06-28"
@@ -108,7 +114,8 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/spacecraft/master/hubble/screenshot.png",
       "download": {
-        "0.18.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip",
+        "0.19.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble.zip",
+        "0.18.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0180.zip",
         "0.17.0": "https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0170.zip",
         "0.16.1":"https://github.com/OpenSpaceHub/spacecraft/raw/master/hubble/hubble_0_16_1.zip"
       },
@@ -122,7 +129,7 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/kleopatra/screenshot.png",
       "download": {
-        "0.18.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip",
+        "0.19.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra.zip",
         "0.16.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/kleopatra/kleopatra_0_16_0.zip"
       },
       "date_added": "2021-04-26",
@@ -135,7 +142,7 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/solarsystem/master/eros/screenshot.png",
       "download": {
-        "0.18.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip",
+        "0.19.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros.zip",
         "0.16.0" : "https://github.com/OpenSpaceHub/solarsystem/raw/master/eros/eros_0_16_0.zip"
       },
       "date_added": "2021-04-26",
@@ -148,7 +155,8 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/extragalactic/screenshot.png",
       "download": {
-        "0.18.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip",
+        "0.19.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic.zip",
+        "0.18.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic_0180.zip",
         "0.16.0":"https://github.com/OpenSpaceHub/misc/raw/master/extragalactic/extragalactic_0_16_0.zip"
       },
       "date_added": "2021-04-26",
@@ -174,7 +182,7 @@
       "version": "0.16.0",
       "image": "https://raw.githubusercontent.com/OpenSpaceHub/misc/master/nodelines/screenshot.png",
       "download": {
-        "0.18.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip",
+        "0.19.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines.zip",
         "0.16.0" : "https://github.com/OpenSpaceHub/misc/raw/master/nodelines/nodelines_0_16_0.zip"
       },
       "date_added": "2021-05-01",
