@@ -42,5 +42,17 @@
             "filePath": "${ASSETS}/scene/solarsystem/planets/jupiter/europa/default_layers.asset"
         },
         "versions": ["0.19.0", "0.19.1"]
+    },
+    {
+        "name": "MODIS Terra Chlorophyll A layer",
+        "description": "Fixes an issue where the chlorophyll layer on earth was not loading",
+        "uuid": "3115a1db-f757-4414-8e96-6b32e16135a6",
+        "patch": {
+            "type": "string_replace",
+            "filePath": "${ASSETS}/scene/solarsystem/planets/earth/layers/colorlayers/modis_terra_chlorophyll_a_temporal.asset",
+            "sourceString": "MODIS_Terra_Chlorophyll_A",
+            "destString": "MODIS_Terra_L2_Chlorophyll_A"
+        },
+        "versions": ["0.18.0", "0.18.1", "0.18.2", "0.19.0", "0.19.1", "0.19.2"]
     }
 ]
